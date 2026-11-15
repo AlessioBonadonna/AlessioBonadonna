@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://nospot.app"><img src="https://img.shields.io/badge/NoSpot-app-111?style=flat" /></a>
-  <a href="https://abcreate.it"><img src="https://img.shields.io/badge/AB%20Create-web%20studio-111?style=flat" /></a>
   <a href="https://linkedin.com/in/alessiobonadonna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -12,7 +11,6 @@
 ### 🚀 What I'm working on
 
 - 🏋️ **[NoSpot](https://nospot.app)**: a workout tracking app built for personal trainers and their clients
-- 🌐 **[AB Create](https://abcreate.it)**: websites and web apps for local businesses
 - 🖨️ Side projects: 3D printing tools, a chess game and a street fight game
 
 ### 🛠️ Stack
